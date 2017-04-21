@@ -1,0 +1,14 @@
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.exe.config
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.csprojResolveAssemblyReference.cache
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.Properties.Resources.resources
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.RegisterForm.resources
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.WhatsAppForm.resources
+c:\users\jomziii\documents\visual studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.csproj.GenerateResource.Cache
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.exe
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppMessenger.pdb
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.AboutForm.resources
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.ChatForm.resources
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.EditAddUsersForm.resources
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.exe
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\obj\Debug\WhatsAppMessenger.pdb
+C:\Users\Jomziii\Documents\Visual Studio 2015\Projects\WhatsAppMessenger\WhatsAppMessenger\bin\Debug\WhatsAppApi.dll
